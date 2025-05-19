@@ -27,8 +27,8 @@ h1 {
 }
 
 .header-container {
-  background-color: #222427
-  color: grey;
+  background-color: #222427; /* Alterado para cinza escuro conforme solicitado */
+  color: white;
   padding: 2rem 0;
   border-radius: 0 0 var(--border-radius) var(--border-radius);
   margin-bottom: 2rem;

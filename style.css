@@ -149,7 +149,7 @@ select.form-select:focus {
 }
 
 .result-card {
-  background-color: var(--primary-color);
+  background-color: #222427;
   color: white;
   border-radius: var(--border-radius);
   padding: 1.5rem;

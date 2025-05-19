@@ -1,6 +1,6 @@
 :root {
   --primary-color: #1A2A3A;
-  --accent-color: #E53935;
+  --accent-color: #222427;
   --background-color: #F5F7FA;
   --text-color: #333333;
   --card-bg: #FFFFFF;
@@ -27,7 +27,7 @@ h1 {
 }
 
 .header-container {
-  background-color: var(#222427);
+  background-color: var(--primay-color);
   color: white;
   padding: 2rem 0;
   border-radius: 0 0 var(--border-radius) var(--border-radius);
